@@ -24,7 +24,7 @@
         "underscore": "1.x"
     },
     "peerDependencies": {
-        "restify": "2.x"
+        "restify": "3.x"
     },
     "devDependencies": {
         "api-easy": "~0.3.8",
